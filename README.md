@@ -15,7 +15,7 @@
 - spotify_tracks.csv
 - spotify_artists.csv
 
-The data is not on github and can be found here for download. For running the code, please create a folder data/ and put the csv files in it.
+The data is not on github and can be found [here](https://we.tl/t-TJOy0j4Zdc) for download. For running the code, please create a folder data/ and put the csv files in it.
 
 ## EDA 
 The EDA can be found in the following Notebook:
